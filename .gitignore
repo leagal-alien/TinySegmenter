@@ -1,0 +1,15 @@
+*~
+*.pyc
+*.txt
+*.out
+\#*\#
+
+# Dependency directory
+node_modules
+
+# Misc
+*.pages
+*.pdf
+.DS_Store
+
+.idea

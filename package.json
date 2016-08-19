@@ -1,0 +1,8 @@
+{
+  "name": "TinySegmenter",
+  "description": "TinySegmenter Copy",
+  "version": "0.0.1",
+  "homepage": "https://github.com/okurahi/TinySegmenter",
+  "main": "./TinySegmenter.js",
+  ...
+}
